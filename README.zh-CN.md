@@ -96,4 +96,4 @@ release.bat    :: dist\Blinders-<版本>.zip
 
 ## 许可证
 
-[MIT](LICENSE) © 2026 parkjs1362 · [更新日志](CHANGELOG.md)
+[MIT](LICENSE) © 2026 Joonit · [更新日志](CHANGELOG.md)

@@ -96,4 +96,4 @@ Beim Bauen werden alle `lang\*.ini` in die exe eingebettet.
 
 ## Lizenz
 
-[MIT](LICENSE) © 2026 parkjs1362 · [Änderungsprotokoll](CHANGELOG.md)
+[MIT](LICENSE) © 2026 Joonit · [Änderungsprotokoll](CHANGELOG.md)

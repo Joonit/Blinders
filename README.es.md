@@ -96,4 +96,4 @@ Todos los `lang\*.ini` se incrustan en el exe al compilar.
 
 ## Licencia
 
-[MIT](LICENSE) © 2026 parkjs1362 · [Historial de cambios](CHANGELOG.md)
+[MIT](LICENSE) © 2026 Joonit · [Historial de cambios](CHANGELOG.md)

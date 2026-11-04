@@ -96,4 +96,4 @@ Every `lang\*.ini` is embedded into the exe at build time.
 
 ## License
 
-[MIT](LICENSE) © 2026 parkjs1362 · [Changelog](CHANGELOG.md)
+[MIT](LICENSE) © 2026 Joonit · [Changelog](CHANGELOG.md)
